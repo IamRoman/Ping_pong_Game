@@ -1,0 +1,23 @@
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.exe.config
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.exe
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.pdb
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong_Client.csprojResolveAssemblyReference.cache
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.Properties.Resources.resources
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.SettingsForm2.resources
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong_Client.csproj.GenerateResource.Cache
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.exe
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.pdb
+D:\Программирование WCF\Черновик\Compound_PingPong\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.Form_PingPong_Client.resources
+D:\Программирование WCF\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.exe.config
+D:\Программирование WCF\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.exe
+D:\Программирование WCF\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.pdb
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.exe.config
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.exe
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.pdb
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.exe
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\bin\Debug\WinForms_PingPong.pdb
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong_Client.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.Form_PingPong_Client.resources
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.Properties.Resources.resources
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong.SettingsForm2.resources
+C:\Users\Роман\Desktop\PingPong_Курсовой проект_29.08.15\WinForms_PingPong_Client\WinForms_PingPong\obj\Debug\WinForms_PingPong_Client.csproj.GenerateResource.Cache
